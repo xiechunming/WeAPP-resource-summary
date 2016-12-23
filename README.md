@@ -1,9 +1,9 @@
 # WeAPP-Resource-summary
-微信小程序资源汇总，WeChat WeApp，包含官方文档，社区站点，第三方支持，开源代码示例，参考资料，相关文章
+微信小程序资源汇总，包含:微信小程序官方文档，微信小程序社区站点，微信小程序第三方支持，微信小程序开源代码示例，微信小程序参考资料，微信小程序相关论述
 ## 官方文档
 
 - [微信公众平台首页](https://mp.weixin.qq.com/)
-- [微信小程序官方介绍](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
+- [微信小程序官方介绍](https://mp.weixin.qq.com/debug/wxadoc/introduction/index.html?t=20161109)
 - [微信小程序官方文档首页](https://mp.weixin.qq.com/debug/wxadoc/dev/)
 - [微信小程序体验](https://mp.weixin.qq.com/debug/wxadoc/dev/demo.html?t=20161222)
 - [开发者工具文档](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html)
@@ -30,20 +30,22 @@
 - [w3cSchoolo](http://www.w3cschool.cn/weixinapp/weixinapp-location.html)
 - [极客学院微信小程序教程](http://www.jikexueyuan.com/course/3081.html)
 
-## 知乎讨论
-- [如何评价 9 月 21 日开始内测的「微信小程序」？](https://www.zhihu.com/question/50874500)
+## 相关论述
+- [做微信小程序的开发者，需要掌握哪些编程技能？](https://www.zhihu.com/question/50886759)
+- [在微信应用号（微信小程序）开发什么什么应用爆发概率大？](https://www.zhihu.com/question/50878674)
 - [如何看待微信将推应用号？](https://www.zhihu.com/question/39374074)
 - [微信小程序（应用号）价值是什么？](https://www.zhihu.com/question/50875544)
-- [开始内测的「微信公众平台 · 小程序」可能有哪些应用场景？](https://www.zhihu.com/question/50871887)
-- [微信小程序（应用号）来了，对创业者来说到底是不是好机会？](https://www.zhihu.com/question/50885176)
-- [微信小程序的出现会给前端开发带来什么？](https://www.zhihu.com/question/50900987)
-- [微信应用号是否真能颠覆APP？](https://www.zhihu.com/question/50878415)
-- [在微信应用号（微信小程序）开发什么什么应用爆发概率大？](https://www.zhihu.com/question/50878674)
-- [如何获得「微信·小程序」的内测资格？](https://www.zhihu.com/question/50875630)
 - [微信“小程序”真的来了！移动端会炸吗？Native开发何去何从？](https://www.zhihu.com/question/50874710)
+- [开始内测的「微信公众平台 · 小程序」可能有哪些应用场景？](https://www.zhihu.com/question/50871887)
+- [微信小程序的出现会给前端开发带来什么？](https://www.zhihu.com/question/50900987)
+- [微信小程序（应用号）来了，对创业者来说到底是不是好机会？](https://www.zhihu.com/question/50885176)
 - [微信的小程序会导致安卓和ios开发失业吗？](https://www.zhihu.com/question/50879269)
-- [微信小程序（应用号）是如何通过苹果审核的？](https://www.zhihu.com/question/50879437)
-- [做微信小程序的开发者，需要掌握哪些编程技能？](https://www.zhihu.com/question/50886759)
+- [微信应用号是否真能颠覆APP？](https://www.zhihu.com/question/50878415)
+
+
+
+
+
 
 ## Author
 - 春哥，之前从事两年安卓开发工作，目前专注微信小程序和php后台开发工作,手机同微信：18516292849
