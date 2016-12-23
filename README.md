@@ -1,6 +1,6 @@
 # WeAPP-Resource-summary
-微信小程序资源汇总，WeChat WeApp，包含官网文档，社区站点，第三方支持，开源代码示例
-## 文档
+微信小程序资源汇总，WeChat WeApp，包含官方文档，社区站点，第三方支持，开源代码示例，参考资料，相关文章
+## 官方文档
 
 - [微信公众平台首页](https://mp.weixin.qq.com/)
 - [微信小程序官方介绍](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
@@ -25,29 +25,11 @@
 - [weapp-gold](https://github.com/hilongjw/weapp-gold) - 掘金主页 微信小应用示例
 - [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) - 微信小程序版的知乎日报
 - [微信小程序-v2ex](https://github.com/jectychen/wechat-v2ex/) - 微信小程序版的v2ex
-
-
-
-
-
-## 教程
-
-- [微信小程序开发文档](http://wxopen.notedown.cn/)
-- [微信公众平台 API 文档 - GitHub](https://github.com/Notedown-cn/wxopen)
-- [微信小程序怎么开发？玩物志用一个上午上线了电商应用 | 爱范儿](http://www.ifanr.com/721124)
-- [首个微信小程序开发教程！](http://gold.xitu.io/entry/57e34d6bd2030900691e9ad7)
-- [抢先看：微信官方发布的微信应用号（小程序）设计规范](http://www.woshipm.com/ucd/418190.html)
-- [开发微信小程序入门前](https://laravel-china.org/topics/2890)
-- [微信小程序开发教程！](https://xituqu.com/508.html)
-- [微信小程序开发环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)
-- [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
-- [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282)
-- [微信小程序「官方示例代码」浅析【下】](https://zhuanlan.zhihu.com/p/22579053)
-- [IDE常用快捷键——微信小程序](http://www.jianshu.com/p/8e07b403958e)
-- [微信小程序开发:MINA](http://huaban.com/pins/836246645/zoom/)
+## 参考资料
+- [w3cSchoolo](http://www.w3cschool.cn/weixinapp/weixinapp-location.html)
+- [极客学院微信小程序教程](http://www.jikexueyuan.com/course/3081.html)
 
 ## 知乎讨论
-
 - [如何评价 9 月 21 日开始内测的「微信小程序」？](https://www.zhihu.com/question/50874500)
 - [如何看待微信将推应用号？](https://www.zhihu.com/question/39374074)
 - [微信小程序（应用号）价值是什么？](https://www.zhihu.com/question/50875544)
@@ -62,37 +44,8 @@
 - [微信小程序（应用号）是如何通过苹果审核的？](https://www.zhihu.com/question/50879437)
 - [做微信小程序的开发者，需要掌握哪些编程技能？](https://www.zhihu.com/question/50886759)
 
-## 媒体报道
-
-- [关于微信小程序（应用号），我能透露的几个细节](https://kenengba.com/post/3515.html)
-- [微信应用号来了，程序猿要涨工资了！](http://www.pmcaff.com/article/index/411074173930624)
-- [微信推出小程序应用号，移动互联网第二春会来吗？](http://36kr.com/topics/98)
-- [一篇文章读懂微信小程序(应用号)是什么，是否值得投入进来做？](http://www.woshipm.com/it/417887.html)
-- [你的产品适不适合做微信小程序？你需要这篇产品逻辑分析](https://www.huxiu.com/article/164700.html)
-- [微信应用号正式公开，一个开放的微信已经上路？](https://www.huxiu.com/article/164634.html)
-- [一文读懂微信小程序（应用号）是什么，创业者是否值得投入进来做？](https://www.huxiu.com/article/164679.html)
-- [一张图看懂微信“小程序”](http://wenda.louqun.com/article/107593)
-- [关于微信小程序，我联想到的几点](https://zi.com/w/a/b32fJp)
-- [你想做个怎样的微信小程序？](http://www.880917.com/wang/10850.html)
-- [微信小程序动了谁的蛋糕,又会把蛋糕分给谁?](http://it.sohu.com/20160922/n468981595.shtml)
-
-## 文章
-
-- [从程序员的角度分析微信小程序](http://blog.csdn.net/yulianlin/article/details/52621413)
-- [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
-- [关于微信小程序（应用号）的底层逻辑分析和拥抱建议](https://zhuanlan.zhihu.com/p/22565340)
-- [微信小程序常见问题汇总 微信小程序有什么功能 如何申请？](http://kulianw.com/keji/201609/18558.html)
-- [关于微信小程序（应用号）的全部看法](http://www.jianshu.com/p/f8266c940eaf)
-- [微信应用号相关资料集合](http://www.jianshu.com/p/597de915ef68)
-- [封闭一周开发微信应用号（小程序）](https://www.v2ex.com/t/308005#reply17)
-- [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
-- [为什么要发布微信应用号](http://t.cn/RcYXsoP)
-- [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
-- [规范抢先看！微信小程序的官方设计指南和建议](http://weibo.com/ttarticle/p/show?id=2309404024275429409282)
-
 ## Author
-
 - 春哥，之前从事两年安卓开发工作，目前专注微信小程序和php后台开发工作,手机同微信：18516292849
----
+
 
 
