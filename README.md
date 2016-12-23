@@ -14,12 +14,13 @@
 - [简书微信小程序专题](http://www.jianshu.com/collection/dfdc2bbd1315)
 - [segmentfault微信小程序联盟](https://segmentfault.com/blog/wxapp)
 - [微信小程序开发论坛](https://weappdev.com/)
+
 ## 第三方支持
 - [coolsite360](http://www.coolsite360.com/) - 在线设计小程序
 - [hotapp](https://weixin.hotapp.cn/) - 第一个专业的微信小程序统计分析工具,同时可以集成后台开发
 - [wilddog](https://www.wilddog.com/) - 微信小程序集成后台开发
 
-## 代码示例
+## 开源代码示例
 - [Small-program-douban](https://github.com/xiechunming/Small-program-douban) - 微信小程序豆瓣电影及其基本API源码结构分析
 - [weapp-gold](https://github.com/hilongjw/weapp-gold) - 掘金主页 微信小应用示例
 - [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) - 微信小程序版的知乎日报
