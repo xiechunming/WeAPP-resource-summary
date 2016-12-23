@@ -1,6 +1,14 @@
 # WeAPP-Resource-summary
 微信小程序资源汇总，WeChat WeApp，包含官网文档，社区站点，代码实例，相关第三方资料
 
+## 文档
+
+- [微信公众平台首页](https://mp.weixin.qq.com/)
+- [微信小程序官方介绍](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
+- [微信小程序官方文档首页](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+- [微信小程序体验](https://mp.weixin.qq.com/debug/wxadoc/dev/demo.html?t=20161222)
+- [开发者工具文档](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html)
+
 
 ## 开源项目
 - [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) - 微信小程序版Gank客户端
@@ -23,16 +31,6 @@
 - [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) - 微信小程序之练手小玩意儿——Todo List
 - [wxapp-2048](https://github.com/jeffche/wechat-app-2048) - 微信小程序之2048小游戏
 
-## 文档
-
-- [官方文档](https://mp.weixin.qq.com/debug/wxadoc/dev/)
-- [简易教程](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
-- [设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
-- [开发者工具文档](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html)
-- [API 文档](https://mp.weixin.qq.com/debug/wxadoc/dev/api/)
-- [视图组件文档](https://mp.weixin.qq.com/debug/wxadoc/dev/component)
-- [常见问题](https://mp.weixin.qq.com/debug/wxadoc/dev/qa/qa.html)
-- [微信 UI/WEB 设计规范标注](http://huaban.com/pins/836246645/zoom/)
 
 ## 教程
 
