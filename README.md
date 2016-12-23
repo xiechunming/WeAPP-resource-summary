@@ -9,6 +9,13 @@
 - [微信小程序体验](https://mp.weixin.qq.com/debug/wxadoc/dev/demo.html?t=20161222)
 - [开发者工具文档](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/devtools.html)
 
+## 社区站点
+- [微信小程序联盟](http://www.wxapp-union.com/)
+- [知呼微信小联盟社区](https://zhuanlan.zhihu.com/wxapp-union)
+- [简书微信小程序专题](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+- [segmentfault微信小程序联盟](https://segmentfault.com/blog/wxapp)
+- [微信小程序开发论坛](https://weappdev.com/)
+
 
 ## 开源项目
 - [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) - 微信小程序版Gank客户端
