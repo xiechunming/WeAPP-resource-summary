@@ -1,6 +1,5 @@
 # WeAPP-Resource-summary
-微信小程序资源汇总，WeChat WeApp，包含官网文档，社区站点，代码实例，相关第三方资料
-
+微信小程序资源汇总，WeChat WeApp，包含官网文档，社区站点，第三方支持，开源代码示例
 ## 文档
 
 - [微信公众平台首页](https://mp.weixin.qq.com/)
@@ -12,31 +11,22 @@
 ## 社区站点
 - [微信小程序联盟](http://www.wxapp-union.com/)
 - [知呼微信小联盟社区](https://zhuanlan.zhihu.com/wxapp-union)
-- [简书微信小程序专题](https://mp.weixin.qq.com/debug/wxadoc/dev/)
+- [简书微信小程序专题](http://www.jianshu.com/collection/dfdc2bbd1315)
 - [segmentfault微信小程序联盟](https://segmentfault.com/blog/wxapp)
 - [微信小程序开发论坛](https://weappdev.com/)
+## 第三方支持
+- [coolsite360](http://www.coolsite360.com/) - 在线设计小程序
+- [hotapp](https://weixin.hotapp.cn/) - 第一个专业的微信小程序统计分析工具,同时可以集成后台开发
+- [wilddog](https://www.wilddog.com/) - 微信小程序集成后台开发
 
-
-## 开源项目
-- [wechat-weapp-gank](https://github.com/lypeer/wechat-weapp-gank) - 微信小程序版Gank客户端
-- [wechat-dribbble](https://github.com/nicesu/wechat-dribbble) - 微信小程序-Dribbble
-- [wechatApp-demo](https://github.com/xwartz/wechatApp-demo) - 微信小程序 DEMO
-- [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack/blob/master/README.md) - 微信小应用资源破解
-- [API](https://github.com/gztchan/wechat-mini-app/tree/master/page/API) - API 文档
-- [weapp-quick](https://github.com/phodal/weapp-quick) - 微信小应用示例代码
+## 代码示例
+- [Small-program-douban](https://github.com/xiechunming/Small-program-douban) - 微信小程序豆瓣电影及其基本API源码结构分析
 - [weapp-gold](https://github.com/hilongjw/weapp-gold) - 掘金主页 微信小应用示例
-- [weapp-douban](https://github.com/zce/weapp-demo) -  豆瓣电影 微信小程序
 - [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily) - 微信小程序版的知乎日报
-- [SmallApp](https://github.com/aidenzou/SmallApp) - 小 Demo，可参考
-- [微信小程序开发 DEMO - 地图定位](https://github.com/giscafer/wechat-weapp-mapdemo)
-- [TCP/IP 长连接服务,支持微信小程序 Websocket](https://github.com/leonguo/fans-server)
 - [微信小程序-v2ex](https://github.com/jectychen/wechat-v2ex/) - 微信小程序版的v2ex
-- [微信小程序](https://github.com/hijiangtao/weapp-newsapp) - 公众号热门文章信息流
-- [teamtoy-mina-demo](https://github.com/easychen/teamtoy-mina-demo) - 一个调用 TeamToy API 的微信小程序 Demo
-- [weapp-snippet-for-sublime-text-2-3](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3) - sublime text 2&3 微信小程序 snippet
-- [wxapp-cli](https://github.com/MeCKodo/wxapp-cli) - 微信小程序的脚手架
-- [wxapp-todolist](https://github.com/zhaozhiming/wechat-todolist) - 微信小程序之练手小玩意儿——Todo List
-- [wxapp-2048](https://github.com/jeffche/wechat-app-2048) - 微信小程序之2048小游戏
+
+
+
 
 
 ## 教程
