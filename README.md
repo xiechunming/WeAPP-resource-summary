@@ -29,7 +29,7 @@
 - [微信小程序-v2ex](https://github.com/jectychen/wechat-v2ex/) - 微信小程序版的v2ex
 
 ## 参考资料
-- [w3cSchoolo](http://www.w3cschool.cn/weixinapp/weixinapp-location.html)
+- [w3cSchool](http://www.w3cschool.cn/weixinapp/weixinapp-location.html)
 - [极客学院微信小程序教程](http://www.jikexueyuan.com/course/3081.html)
 
 ## 相关论述
