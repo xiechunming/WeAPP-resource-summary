@@ -21,6 +21,7 @@
 - [hotapp](https://weixin.hotapp.cn/) - 第一个专业的微信小程序统计分析工具,同时可以集成后台开发
 - [wilddog](https://www.wilddog.com/) - 微信小程序集成后台开发
 - [leancloud](https://leancloud.cn/) - 微信小程序集成后台开发
+- [weui](https://github.com/weui/weui-wxss/) - 微信小程序第三方组件库
 
 ## 开源代码示例
 - [Small-program-douban](https://github.com/xiechunming/Small-program-douban) - 微信小程序豆瓣电影及其基本API源码结构分析
@@ -50,7 +51,8 @@
 
 
 ## Author
-- 春哥，之前从事两年安卓开发工作，目前专注微信小程序和java微信后台开发工作,手机同微信：18516292849
+- 晓丶离乡，做小程序之前从事安卓开发工作两年，微信小程序推出之后转移阵地，目前专注于微信小程序开发，微信公众号后台接口开发，及其微信相关产品设计运维等工作。 联系方式：手机同微信:18516292849,邮箱:akatsuki091311@gmail.com。
+
 
 
 
